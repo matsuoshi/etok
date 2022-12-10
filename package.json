@@ -1,0 +1,14 @@
+{
+  "name": "tangoo",
+  "version": "1.0.0",
+  "main": "tangoo.js",
+  "type": "module",
+  "author": "matsuoshi <matsuoshi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node tangoo.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.3.3"
+  }
+}

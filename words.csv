@@ -50,7 +50,7 @@ face,向き合う,
 examine,診察する、調査する,
 state,はっきり述べる、明言する,
 deserve,値する,
-invent,発明する,
+invent,発明する,1
 wave,手をふって挨拶する,
 adopt,採用する,
 possess,所有する,
@@ -178,3 +178,43 @@ work on,取り組む
 turn in,提出する
 go through,経験する
 put off,延期する
+make up for,埋め合わせをする
+run out of,使い果たす
+call on,ちょっと訪れる／頼む
+figure out,考え出す、解決する
+complain about,〜について不満を言う
+lead to,に至る、つながる
+go off,（目覚まし時計などが）鳴る
+wait on,給仕をする／対応する
+suffer from,苦しむ
+reach for,取ろうと手を伸ばす
+reflect on,熟考する
+result from,起因する、由来する
+set aside,（金・時間などを）取っておく
+care for,〜が好きである／世話をする
+interfere with,邪魔する
+do away with,廃止する／処分する
+attribute A to B,AをBの結果であると考える
+inform A of B,AにBについて知らせる
+assure A of B,AにBを保証する
+distinguish A from B,AをBと区別する
+expose A to B,AをBにさらす／触れさせる
+praise A for B,AをBのことで褒める
+regard A as B,AをBとみなす
+appoint A as B,AをBに任命する
+owe A to B,AはBのおかげである／借りている
+contribute A to B,AをBに寄付する、ささげる、与える
+accuse A of B,AをBの理由で訴える
+admire A for B,AをBの点で称賛する
+devote A to B,A(時間など)をBにささげる、充てる
+refer to A as B,AをBと呼ぶ
+relate A to B,AをBと関連付ける
+rob A of B,AからBを奪う
+deprive A of B,AからBを奪う
+appeal to A for B,AにB(助けなど)を求める
+recognize A as B,AをBだと認める
+avoid doing,〜することを避ける
+intend to do,〜するつもりである
+struggle to do,〜しようと努力する
+aim to do,〜することを目指す
+deny doing,しなかったと言う

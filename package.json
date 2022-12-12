@@ -1,15 +1,18 @@
 {
-  "name": "tangoo",
+  "name": "etok",
   "version": "1.0.0",
-  "main": "tangoo.js",
+  "main": "etok.js",
   "type": "module",
   "author": "matsuoshi <matsuoshi@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node tangoo.js"
+    "start": "node etok.js"
   },
   "dependencies": {
     "array-shuffle": "^3.0.0",
     "csv-parse": "^5.3.3"
+  },
+  "volta": {
+    "node": "18.12.1"
   }
 }

@@ -6,7 +6,10 @@ import { stdin as input, stdout as output } from 'node:process'
 
 function readCsv(filename) {
   const csv = fs.readFileSync(filename, 'utf8')
-  const words = parse(csv, { columns: true })
+  const words = parse(csv, {
+      columns: true,
+      relax_column_count: true,
+    })
     .filter(word => word.complete !== '1')
   return arrayShuffle(words)
 }
@@ -15,8 +18,11 @@ async function question(words) {
   const rl = readline.createInterface({ input, output })
 
   for (const word of words) {
-    const string = await rl.question(`${word.en} ? `)
-    console.log(word.ja)
+    const reply = await rl.question(`${word.question} ? `)
+    if (reply === 'q') {
+      break
+    }
+    console.log(word.answer)
   }
 
   rl.close()

@@ -6,7 +6,7 @@ balance,残高,
 fare,運賃,
 complaint,不満,
 vehicle,乗り物,
-railing,手すり,
+railing,手すり,1
 fund,資金,
 committee,委員会,
 authority,権威,
@@ -21,7 +21,7 @@ term,条件、期間,
 crew,乗務員,1
 access,接近,1
 opening,欠員,1
-account,口座,
+account,口座,1
 concern,懸念,
 measure,対策,
 interest,利息,
@@ -40,7 +40,7 @@ pour,つぐ、注ぐ,
 accompany,同行する,
 board,乗り込む,
 recognize,見分ける、識別する,
-attend,出席する,
+attend,出席する,1
 hold,催す,
 process,処理する、工程,
 last,続く,
@@ -55,7 +55,7 @@ wave,手をふって挨拶する,1
 adopt,採用する,
 possess,所有する,
 place,注文を出す,
-identify,誰であるか分かる、AをBであると確認・特定する,
+identify,誰であるか分かる、AをBであると確認・特定する,1
 note,気をつける、気づく,
 prevent,防ぐ,
 avoid,避ける,
@@ -70,7 +70,7 @@ explain,説明する,
 customize,特注でつくる,
 suit,似合う,1
 cover,賄う、相殺する／保険をかける,
-avilable,利用できる,
+avilable,利用できる,1
 effective,効果的な,
 indivisual,個々の、個人の,
 sufficient,十分な,
@@ -86,8 +86,8 @@ obvious,明らかな、明白な,
 typical,典型的な,
 certain,一定の,
 following,次の,1
-ideal,理想的な,
-vast,広大な,
+ideal,理想的な,1
+vast,広大な,1
 patient,辛抱強い／患者,
 exact,正確な,
 further,それ以上の,1
@@ -130,7 +130,7 @@ admit,認める,
 consider,熟慮する,
 suffer,損害を被る,
 admire,感心する,
-prefer,好む,
+prefer,好む,1
 suppose,だと思う、考える,
 guess,だと思う／推測,1
 spend,使う、費やす,1
@@ -256,7 +256,7 @@ be willing to do,快く〜する
 be about to do,〜しようとしている
 be likely to do,〜しそうである
 be anxious to do,〜したがっている
-be pleased to do,〜してうれしい
+be pleased to do,〜してうれしい,1
 be sure to do,きっと〜する,1
 be bound to do,きっと〜する
 be ashamed to do,〜するのが恥ずかしい,1
@@ -274,529 +274,17 @@ keep in touch with,〜と連絡を取り合っている
 commit oneself to,〜を約束する,1
 run the risk of,〜の危険を冒す
 take part in,参加する
-have A in common,Aを共通に持つ
+have A in common,Aを共通に持つ,1
 take a look at,〜を見る,1
 have nothing to do with,〜と関係がない
 make a difference,重要である、違いが生じる／差をつける
 keep track of,経過を追う
-get lost,道に迷う
-give rise to,引き起こす、原因となる
-take the place of,〜の代わりをする、取って代わる
-in advance,前もって
-out of order,故障して
-in a row,1列に
-side by side,並んで
-in line,1列に
-on display,展示して、陳列して
-in order to do,〜するために
-in particular,特に
-no longer,もはや〜でない
-in effect,事実上、実際には
-so far,今までのところ、これまでは
-far from,決して〜でない、〜にはほど遠い
-at least,少なくとも
-on the way,途中で
-in time,間に合って
-on sale,販売されて／特売中で
-on purpose,故意に、わざと
-to some extent,ある程度
-for the time being,当分の間、差し当たり
-on duty,勤務時間中で
-in a moment,すぐに
-at hand,近くに、手近に
-in due course,やがて、そのうち
-at large,一般の、全体としての
-out of control,制御できない、手に負えない
-at ease,安心した、気楽な
-adopt,採用する,
-possess,所有する,
-place,注文を出す,
-identify,誰であるか分かる、AをBであると確認・特定する,
-note,気をつける、気づく,
-prevent,防ぐ,
-avoid,避ける,
-observe,観察,
-stress,協調する,
-achieve,達成する,
-determine,明らかにする、決心する,
-prove,証明する,
-host,主催する,1
-attempt,試みる、企てる,
-explain,説明する,
-customize,特注でつくる,
-suit,似合う,1
-cover,賄う、相殺する／保険をかける,
-avilable,利用できる,
-effective,効果的な,
-indivisual,個々の、個人の,
-sufficient,十分な,
-due,支払期日の来た,
-reasonable,理にかなった、もっともな／手頃な,
-former,前の,
-specific,特定の、固有の,
-practical,現実的な,
-affordable,手頃な,
-promising,前途有望な、将来性のある,1
-entire,全体の,
-obvious,明らかな、明白な,
-typical,典型的な,
-certain,一定の,
-following,次の,1
-ideal,理想的な,
-vast,広大な,
-patient,辛抱強い／患者,
-exact,正確な,
-further,それ以上の,1
-loyal,忠誠な、忠実な,
-considerable,かなりの,
-particular,特別の,
-present,出席している／現在の,
-direction,道順／方角,
-practice,習慣、慣例／練習／実行,1
-relief,安心／救済,
-arrangement,手配、準備,
-basis,基準、原則,
-confidence,信頼,
-glance,ちらっと見ること、一瞥,
-intention,意図,
-district,地区,1
-proof,証拠,
-sale,売上,
-capital,資本,
-climate,気候、風潮,
-finance,財源、資金、財務,
-lot,用地、敷地／くじ引き、抽選,
-importance,重要性,
-patience,忍耐,
-offense,違反,
-defeat,敗北／勝利する,1
-witness,目撃者,
-appearance,登場、出場,
-favor,援助,
-absence,欠席,1
-comfort,快適さ,
-describe,描写する、説明する,1
-pile,積み重ねる,1
-suspect,疑う,
-gain,得る、手に入れる、増す,
-settle,解決する,
-borrow,借りる,
-reform,改善する,
-admit,認める,
-consider,熟慮する,
-suffer,損害を被る,
-admire,感心する,
-prefer,好む,
-suppose,だと思う、考える,
-guess,だと思う／推測,1
-spend,使う、費やす,1
-offend,感情を害する、罪を犯す,
-realize,はっきり理解する／実現する,
-afford,余裕がある,1
-treat,扱う、待遇する,
-probable,ありそうな,
-sensible,賢明な、分別のある,
-vague,はっきりしない、漠然とした,
-stiff,凝った、こわばった／堅い,1
-solid,堅実な／しっかりした／固体
-grave,重大な
-sore,痛い
-eager,熱心な
-plain,明らかな／質素な
-dull,沈滞した
-otherwise,さもなければ
-properly,適切に
-highly,非常に
-likely,おそらく、多分
-hardly,ほとんど〜しない
-particularly,特に
-seldom,めったに〜しない
-moreover,さらに
-sharply,急激に
-despite,にもかかわらず
-worth,価値がある
-regarding,〜に関して
-concerning,〜に関して
-participate in,参加する
-sign up for,申し込む,1
-carry out,実行する
-take over,引き継ぐ
-try on,試着する
-rely on,頼る
-come up with,思いつく
-break down,故障する
-apply to,適用される
-hand in,提出する
-set up,設立する
-go over,綿密に調べる
-point out,指摘する
-work on,取り組む
-turn in,提出する
-go through,経験する
-put off,延期する
-make up for,埋め合わせをする
-run out of,使い果たす
-call on,ちょっと訪れる／頼む
-figure out,考え出す、解決する
-complain about,〜について不満を言う
-lead to,に至る、つながる
-go off,（目覚まし時計などが）鳴る
-wait on,給仕をする／対応する
-suffer from,苦しむ
-reach for,取ろうと手を伸ばす
-reflect on,熟考する,1
-result from,起因する、由来する
-set aside,（金・時間などを）取っておく
-care for,〜が好きである／世話をする
-interfere with,邪魔する,1
-do away with,廃止する／処分する
-attribute A to B,AをBの結果であると考える
-inform A of B,AにBについて知らせる,1
-assure A of B,AにBを保証する
-distinguish A from B,AをBと区別する
-expose A to B,AをBにさらす／触れさせる,1
-praise A for B,AをBのことで褒める
-regard A as B,AをBとみなす
-appoint A as B,AをBに任命する
-owe A to B,AはBのおかげである／借りている
-contribute A to B,AをBに寄付する、ささげる、与える,1
-accuse A of B,AをBの理由で訴える
-admire A for B,AをBの点で称賛する
-devote A to B,A(時間など)をBにささげる、充てる
-refer to A as B,AをBと呼ぶ
-relate A to B,AをBと関連付ける
-rob A of B,AからBを奪う
-deprive A of B,AからBを奪う
-appeal to A for B,AにB(助けなど)を求める,1
-recognize A as B,AをBだと認める
-avoid doing,〜することを避ける
-intend to do,〜するつもりである
-struggle to do,〜しようと努力する
-aim to do,〜することを目指す
-deny doing,しなかったと言う
-urge A to do,催促する
-encourage A to do,励ます
-persuade A to do,Aを説得して〜させる
-prohibit A from doing,Aが〜するのを禁止する
-convince A to do,Aに〜するよう説得する
-discourage A from doing,Aに〜するのをやめさせる
-be subject to,〜に左右される
-be suitable for,〜に適している、ふさわしい
-be capable of,〜の能力がある
-be familiar with,〜に精通している
-be superior to,〜より優れている
-be aware of,〜に気づいている
-be bound for,〜行きである
-be credited with,〜の功績を認められている
-be involved in,〜に参加している
-be content with,〜に満足している
-be indifferent to,〜に無関心である
-be pleased with,〜に喜んでいる
-be confident of,〜を確信している
-be inferior to,〜より劣っている
-be conscious of,〜を意識している
-be accustomed to,〜に慣れている
-be anxious about,〜を心配している
-be used to,〜に慣れている
-be absorted in,〜に夢中になっている
-be dependent on,〜に頼っている,1
-be free of,〜を免れている
-be engaged in,〜に携わっている
-be sensitive to,〜に敏感である
-be certain of,〜を確信している
-be puzzled about,〜で困っている
-be eager for,〜を熱望している
-be proper to,〜に固有である
-be supposed to do,〜することになっている
-be willing to do,快く〜する
-be about to do,〜しようとしている
-be likely to do,〜しそうである
-be anxious to do,〜したがっている
-be pleased to do,〜してうれしい
-be sure to do,きっと〜する,1
-be bound to do,きっと〜する
-be ashamed to do,〜するのが恥ずかしい,1
-take advantage of,〜を利用する
-help oneself to,自分で取って食べる,1
-make use of,〜を利用する
-get rid of,片付ける
-take A into account,Aを考慮に入れる
-keep A in mind,Aを覚えておく,1
-give A a hand,Aに手を貸す
-take care of,〜の世話をする
-take A for granted,Aを当然のことと思う
-make sense,意味を成す、理解できる、道理にかなっている
-keep in touch with,〜と連絡を取り合っている
-commit oneself to,〜を約束する,1
-run the risk of,〜の危険を冒す
-take part in,参加する
-have A in common,Aを共通に持つ
-take a look at,〜を見る,1
-have nothing to do with,〜と関係がない
-make a difference,重要である、違いが生じる／差をつける
-keep track of,経過を追う
-get lost,道に迷う
-give rise to,引き起こす、原因となる
-take the place of,〜の代わりをする、取って代わる
-in advance,前もって
-out of order,故障して
-in a row,1列に
-side by side,並んで
-in line,1列に
-on display,展示して、陳列して
-in order to do,〜するために
-in particular,特に
-no longer,もはや〜でない
-in effect,事実上、実際には
-so far,今までのところ、これまでは
-far from,決して〜でない、〜にはほど遠い
-at least,少なくとも
-on the way,途中で
-in time,間に合って
-on sale,販売されて／特売中で
-on purpose,故意に、わざと
-to some extent,ある程度
-for the time being,当分の間、差し当たり
-on duty,勤務時間中で
-in a moment,すぐに
-at hand,近くに、手近に
-in due course,やがて、そのうち
-at large,一般の、全体としての
-out of control,制御できない、手に負えない
-at ease,安心した、気楽な
-adopt,採用する,
-possess,所有する,
-place,注文を出す,
-identify,誰であるか分かる、AをBであると確認・特定する,
-note,気をつける、気づく,
-prevent,防ぐ,
-avoid,避ける,
-observe,観察,
-stress,協調する,
-achieve,達成する,
-determine,明らかにする、決心する,
-prove,証明する,
-host,主催する,1
-attempt,試みる、企てる,
-explain,説明する,
-customize,特注でつくる,
-suit,似合う,1
-cover,賄う、相殺する／保険をかける,
-avilable,利用できる,
-effective,効果的な,
-indivisual,個々の、個人の,
-sufficient,十分な,
-due,支払期日の来た,
-reasonable,理にかなった、もっともな／手頃な,
-former,前の,
-specific,特定の、固有の,
-practical,現実的な,
-affordable,手頃な,
-promising,前途有望な、将来性のある,1
-entire,全体の,
-obvious,明らかな、明白な,
-typical,典型的な,
-certain,一定の,
-following,次の,1
-ideal,理想的な,
-vast,広大な,
-patient,辛抱強い／患者,
-exact,正確な,
-further,それ以上の,1
-loyal,忠誠な、忠実な,
-considerable,かなりの,
-particular,特別の,
-present,出席している／現在の,
-direction,道順／方角,
-practice,習慣、慣例／練習／実行,1
-relief,安心／救済,
-arrangement,手配、準備,
-basis,基準、原則,
-confidence,信頼,
-glance,ちらっと見ること、一瞥,
-intention,意図,
-district,地区,1
-proof,証拠,
-sale,売上,
-capital,資本,
-climate,気候、風潮,
-finance,財源、資金、財務,
-lot,用地、敷地／くじ引き、抽選,
-importance,重要性,
-patience,忍耐,
-offense,違反,
-defeat,敗北／勝利する,1
-witness,目撃者,
-appearance,登場、出場,
-favor,援助,
-absence,欠席,1
-comfort,快適さ,
-describe,描写する、説明する,1
-pile,積み重ねる,1
-suspect,疑う,
-gain,得る、手に入れる、増す,
-settle,解決する,
-borrow,借りる,
-reform,改善する,
-admit,認める,
-consider,熟慮する,
-suffer,損害を被る,
-admire,感心する,
-prefer,好む,
-suppose,だと思う、考える,
-guess,だと思う／推測,1
-spend,使う、費やす,1
-offend,感情を害する、罪を犯す,
-realize,はっきり理解する／実現する,
-afford,余裕がある,1
-treat,扱う、待遇する,
-probable,ありそうな,
-sensible,賢明な、分別のある,
-vague,はっきりしない、漠然とした,
-stiff,凝った、こわばった／堅い,1
-solid,堅実な／しっかりした／固体
-grave,重大な
-sore,痛い
-eager,熱心な
-plain,明らかな／質素な
-dull,沈滞した
-otherwise,さもなければ
-properly,適切に
-highly,非常に
-likely,おそらく、多分
-hardly,ほとんど〜しない
-particularly,特に
-seldom,めったに〜しない
-moreover,さらに
-sharply,急激に
-despite,にもかかわらず
-worth,価値がある
-regarding,〜に関して
-concerning,〜に関して
-participate in,参加する
-sign up for,申し込む,1
-carry out,実行する
-take over,引き継ぐ
-try on,試着する
-rely on,頼る
-come up with,思いつく
-break down,故障する
-apply to,適用される
-hand in,提出する
-set up,設立する
-go over,綿密に調べる
-point out,指摘する
-work on,取り組む
-turn in,提出する
-go through,経験する
-put off,延期する
-make up for,埋め合わせをする
-run out of,使い果たす
-call on,ちょっと訪れる／頼む
-figure out,考え出す、解決する
-complain about,〜について不満を言う
-lead to,に至る、つながる
-go off,（目覚まし時計などが）鳴る
-wait on,給仕をする／対応する
-suffer from,苦しむ
-reach for,取ろうと手を伸ばす
-reflect on,熟考する,1
-result from,起因する、由来する
-set aside,（金・時間などを）取っておく
-care for,〜が好きである／世話をする
-interfere with,邪魔する,1
-do away with,廃止する／処分する
-attribute A to B,AをBの結果であると考える
-inform A of B,AにBについて知らせる,1
-assure A of B,AにBを保証する
-distinguish A from B,AをBと区別する
-expose A to B,AをBにさらす／触れさせる,1
-praise A for B,AをBのことで褒める
-regard A as B,AをBとみなす
-appoint A as B,AをBに任命する
-owe A to B,AはBのおかげである／借りている
-contribute A to B,AをBに寄付する、ささげる、与える,1
-accuse A of B,AをBの理由で訴える
-admire A for B,AをBの点で称賛する
-devote A to B,A(時間など)をBにささげる、充てる
-refer to A as B,AをBと呼ぶ
-relate A to B,AをBと関連付ける
-rob A of B,AからBを奪う
-deprive A of B,AからBを奪う
-appeal to A for B,AにB(助けなど)を求める,1
-recognize A as B,AをBだと認める
-avoid doing,〜することを避ける
-intend to do,〜するつもりである
-struggle to do,〜しようと努力する
-aim to do,〜することを目指す
-deny doing,しなかったと言う
-urge A to do,催促する
-encourage A to do,励ます
-persuade A to do,Aを説得して〜させる
-prohibit A from doing,Aが〜するのを禁止する
-convince A to do,Aに〜するよう説得する
-discourage A from doing,Aに〜するのをやめさせる
-be subject to,〜に左右される
-be suitable for,〜に適している、ふさわしい
-be capable of,〜の能力がある
-be familiar with,〜に精通している
-be superior to,〜より優れている
-be aware of,〜に気づいている
-be bound for,〜行きである
-be credited with,〜の功績を認められている
-be involved in,〜に参加している
-be content with,〜に満足している
-be indifferent to,〜に無関心である
-be pleased with,〜に喜んでいる
-be confident of,〜を確信している
-be inferior to,〜より劣っている
-be conscious of,〜を意識している
-be accustomed to,〜に慣れている
-be anxious about,〜を心配している
-be used to,〜に慣れている
-be absorted in,〜に夢中になっている
-be dependent on,〜に頼っている,1
-be free of,〜を免れている
-be engaged in,〜に携わっている
-be sensitive to,〜に敏感である
-be certain of,〜を確信している
-be puzzled about,〜で困っている
-be eager for,〜を熱望している
-be proper to,〜に固有である
-be supposed to do,〜することになっている
-be willing to do,快く〜する
-be about to do,〜しようとしている
-be likely to do,〜しそうである
-be anxious to do,〜したがっている
-be pleased to do,〜してうれしい
-be sure to do,きっと〜する,1
-be bound to do,きっと〜する
-be ashamed to do,〜するのが恥ずかしい,1
-take advantage of,〜を利用する
-help oneself to,自分で取って食べる,1
-make use of,〜を利用する
-get rid of,片付ける
-take A into account,Aを考慮に入れる
-keep A in mind,Aを覚えておく,1
-give A a hand,Aに手を貸す
-take care of,〜の世話をする
-take A for granted,Aを当然のことと思う
-make sense,意味を成す、理解できる、道理にかなっている
-keep in touch with,〜と連絡を取り合っている
-commit oneself to,〜を約束する,1
-run the risk of,〜の危険を冒す
-take part in,参加する
-have A in common,Aを共通に持つ
-take a look at,〜を見る,1
-have nothing to do with,〜と関係がない
-make a difference,重要である、違いが生じる／差をつける
-keep track of,経過を追う,1
 get lost,道に迷う,1
 give rise to,引き起こす、原因となる
 take the place of,〜の代わりをする、取って代わる
 in advance,前もって
 out of order,故障して
-in a row,1列に
+in a row,1列に,1
 side by side,並んで
 in line,1列に
 on display,展示して、陳列して
@@ -820,3 +308,27 @@ in due course,やがて、そのうち
 at large,一般の、全体としての
 out of control,制御できない、手に負えない
 at ease,安心した、気楽な
+at best,よくても／せいぜい
+by heart,暗記して、そらで
+in a sense,ある意味では
+in practice,実際には
+on business,商用で、仕事で
+in charge of,〜を担当して
+in accordance with,〜に従って、〜に一致して
+according to,〜によれば、〜に従って
+on behalf of,〜を代表して、〜に代わって
+due to,〜が原因で
+instead of,〜の代わりに
+along with,〜と一緒に
+in terms of,〜の点から、〜に関して
+regardless of,〜に関係なく、〜にかかわらず
+aside from,〜を除いて、〜は別として
+with regard to,〜に関して
+on board,〜に乗って
+rather than,〜よりも(むしろ)
+in spite of,〜にもかかわらず
+on top of,〜に加えて、〜の上にさらに
+across from,〜の向こう側に
+thanks to,〜のおかげで
+as to,〜に関しては、〜については
+as well as,〜だけでなく
